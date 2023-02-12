@@ -1,0 +1,14 @@
+Date and time: Tue Apr 13 21:51:30 2021
+  | Product: Maze Runner | Quantity: 2 | Total: 3600 RS | Discount: 180 RS | Sub total: 3420 RS
+Date and time: Tue Apr 13 21:51:30 2021
+  | Product: Hobbit | Quantity: 3 | Total: 4500 RS | Discount: 225 RS | Sub total: 4275 RS
+Date and time: Tue Apr 13 21:51:30 2021
+  | Product: The Hunger Games | Quantity: 5 | Total: 15250 RS | Discount: 760 RS | Sub total: 14490 RS
+Date and time: Tue Apr 13 21:51:30 2021
+  | Product: Harry Potter and the Deathly Hallows | Quantity: 1 | Total: 2000 RS | Discount: 100 RS | Sub total: 1900 RS
+Date and time: Tue Apr 13 23:51:48 2021
+  | Product: Hobbit | Quantity: 2 | Total: 3000 RS | Discount: 150 RS | Sub total: 2850 RS
+Date and time: Tue Apr 13 23:51:48 2021
+  | Product: Hobbit | Quantity: 2 | Total: 3000 RS | Discount: 150 RS | Sub total: 2850 RS
+Date and time: Wed May 19 22:28:52 2021
+  | Product: The Hunger Games | Quantity: 3 | Total: 9150 RS | Discount: 455 RS | Sub total: 8695 RS
