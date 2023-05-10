@@ -1,2 +1,2 @@
-Date and time: Sun Jan 15 10:46:00 2023
-  | Product: Hobbit | Quantity: 1 | Total: 1500 RS | Discount:  0 | Sub total: 1500 RS
+Date and time: Tue May 09 21:18:21 2023
+  | Product: The Hunger Games | Quantity: 2 | Total: 6100 RS | Discount:  0 | Sub total: 6100 RS

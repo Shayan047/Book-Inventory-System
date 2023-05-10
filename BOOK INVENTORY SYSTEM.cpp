@@ -189,7 +189,7 @@ class Bookshop
 		invoice(int price)
 		{
 			file.open("DATE.txt",ios::app);
-			file2.open("SALES.txt",ios::app);
+			file2.open("SALE.txt",ios::app);
 			system("cls");
 			cout << "\t\t\t=========\n\t\t\t INVOICE\n\t\t\t=========\n\n";
 			cout << "\t\t\t-Date and time: " << dt << "\n\t\t\t-Product:   " << temp << "\n\t\t\t-Quantity:  " << itemp[0] << "\n\t\t\t-Total:     " << price << " RS\n\n\t\t\t-Discount:  0 RS\n\t\t\t-Sub total: " << price << " RS";
